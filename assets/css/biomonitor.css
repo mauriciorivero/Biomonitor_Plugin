@@ -1,0 +1,24 @@
+.biomonitor-dashboard {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.biomonitor-dashboard h2 {
+    text-align: center;
+}
+
+.biomonitor-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.biomonitor-table th, .biomonitor-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.biomonitor-table th {
+    background-color: #f2f2f2;
+}
+
